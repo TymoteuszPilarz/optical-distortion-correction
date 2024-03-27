@@ -100,7 +100,7 @@ void MenuBar::SaveAs(wxCommandEvent& event)
 
 void MenuBar::About(wxCommandEvent& event)
 {
-    wxLaunchDefaultBrowser("https://github.com/TymoteuszPilarz");
+    wxLaunchDefaultBrowser("https://github.com/TymoteuszPilarz/optical-distortion-correction");
 }
 
 MenuBar::MenuBar()
