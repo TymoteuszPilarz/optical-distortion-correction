@@ -26,3 +26,4 @@ cd build
 cmake ..
 cmake --build .
 ```
+Note that smaller images may require more radial and/or tangential coefficients for the effect to be visible.
