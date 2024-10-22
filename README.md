@@ -18,7 +18,8 @@ GUI was created with the help of wxWidgets library, image processing is done usi
 # Building and running
 To run this project, the following libraries must be installed fist:
 - wxWidgets
-- OpenCV  
+- OpenC
+
 It is recommended to use available package manager on your system to install those requirements. Next, paste the following commands in your terminal in the directory where you cloned this project.
 ```
 mkdir build
